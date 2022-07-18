@@ -1,2 +1,2 @@
-# detection-and-recognition
-ai
+# detection
+using cv
